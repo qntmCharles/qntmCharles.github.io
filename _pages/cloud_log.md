@@ -2,7 +2,7 @@
 layout: page
 permalink: /log/
 title: cloudspotting
-description: Personal cloudspotting log.
+description: Interesting clouds in reverse chronological order.
 nav: true
 nav_order: 6
 ---
@@ -90,6 +90,8 @@ nav_order: 6
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/clouds/2024-04-01-1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/clouds/2024-04-01-2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
