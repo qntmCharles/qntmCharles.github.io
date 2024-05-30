@@ -27,6 +27,7 @@ on:
       - "!FAQ.md"
       - "!INSTALL.md"
       - "!README.md"
+      - "_bibliography/*.bib"
   pull_request:
     branches:
       - master
