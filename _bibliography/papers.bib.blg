@@ -1,0 +1,25 @@
+[0] Config.pm:304> INFO - This is Biber 2.14 (beta) running in TOOL mode
+[0] Config.pm:307> INFO - Logfile is 'papers.bib.blg'
+[74] biber:322> INFO - === Thu May 30, 2024, 15:37:52
+[87] Utils.pm:75> INFO - Globbing data source 'papers.bib'
+[87] Utils.pm:91> INFO - Globbed data source 'papers.bib' to papers.bib
+[102] Biber.pm:4451> INFO - Looking for bibtex format file 'papers.bib'
+[103] bibtex.pm:1653> INFO - LaTeX decoding ...
+[116] bibtex.pm:1471> INFO - Found BibTeX data source 'papers.bib'
+[140] Utils.pm:293> WARN - Datamodel: Entry 'masters_essay' (papers.bib): Field 'award' invalid in data model - ignoring
+[144] Utils.pm:293> WARN - Datamodel: Entry 'powell2019' (papers.bib): Field 'adsurl' invalid in data model - ignoring
+[144] Utils.pm:293> WARN - Datamodel: Entry 'powell2019' (papers.bib): Field 'adsnote' invalid in data model - ignoring
+[145] Utils.pm:293> WARN - Datamodel: Entry 'powell2019' (papers.bib): Field 'preview' invalid in data model - ignoring
+[145] Utils.pm:293> WARN - Datamodel: Entry 'powell2019' (papers.bib): Field 'bibtex_show' invalid in data model - ignoring
+[145] Utils.pm:293> WARN - Datamodel: Entry 'powell2019' (papers.bib): Field 'selected' invalid in data model - ignoring
+[149] Utils.pm:293> WARN - Datamodel: Entry 'powell2017' (papers.bib): Field 'adsurl' invalid in data model - ignoring
+[149] Utils.pm:293> WARN - Datamodel: Entry 'powell2017' (papers.bib): Field 'adsnote' invalid in data model - ignoring
+[153] Utils.pm:293> WARN - Datamodel: Entry 'rksk_essay' (papers.bib): Field 'selected' invalid in data model - ignoring
+[153] Utils.pm:293> WARN - Datamodel: Entry 'rksk_essay' (papers.bib): Field 'award' invalid in data model - ignoring
+[160] Utils.pm:293> WARN - Datamodel: Entry 'powell2018' (papers.bib): Field 'preview' invalid in data model - ignoring
+[167] Utils.pm:293> WARN - Datamodel: Entry 'powell2017_2' (papers.bib): Field 'adsurl' invalid in data model - ignoring
+[167] Utils.pm:293> WARN - Datamodel: Entry 'powell2017_2' (papers.bib): Field 'adsnote' invalid in data model - ignoring
+[168] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_zXTc/papers.bib_443083.utf8, line 4, warning: 6 characters of junk seen at toplevel
+[168] Utils.pm:309> ERROR - BibTeX subsystem: /tmp/biber_tmp_zXTc/papers.bib_443083.utf8, line 6, syntax error: found "title", expected end of entry ("}" or ")") (skipping to next "@")
+[168] Biber.pm:128> INFO - WARNINGS: 14
+[168] Biber.pm:132> INFO - ERRORS: 1

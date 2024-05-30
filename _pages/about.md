@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student @ <a href='https://www.damtp.cam.ac.uk/'>DAMTP, University of Cambridge</a>. 
+subtitle: PhD student @ <a href='https://www.damtp.cam.ac.uk/'>DAMTP, University of Cambridge</a>.
 
 profile:
   align: right

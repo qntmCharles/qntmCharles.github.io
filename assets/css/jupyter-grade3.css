@@ -924,9 +924,7 @@ i.fa.fa-icon {
 
 .fa {
   display: inline-block;
-  font:
-    normal normal normal 10pt/1 "FontAwesome",
-    sans-serif;
+  font: normal normal normal 10pt/1 "FontAwesome", sans-serif;
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -1521,9 +1519,7 @@ div.form-control,
   border: 1px solid #d0d0d0 !important;
   margin-left: 2px;
   box-shadow: none;
-  transition:
-    border-color 0.15s ease-in-out 0s,
-    box-shadow 0.15s ease-in-out 0s;
+  transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
 }
 
 .form-control-static {
