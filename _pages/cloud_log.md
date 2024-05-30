@@ -104,3 +104,135 @@ nav_order: 6
 </div>
 
 <hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2024-01-24.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Cirrostratus undulatus. Cambridge. 24th January 2024.
+</div>
+
+<hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2023-12-27.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Altocumulus with a sharp boundary, possibly marking a front. Kynance Cove. 27th December 2023.
+</div>
+
+<hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2023-12-12.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Cirrocumulus stratiformis. Cambridge. 12th December 2023.
+</div>
+
+<hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2023-12-10.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+	Cirrostratus fibratus at sunrise. Cambridge. 10th December 2023.
+</div>
+
+<hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2023-11-14.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Lee waves in altocumulus stratiformis. Somewhere over the North Atlantic. 14th November 2023.
+</div>
+
+<hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2023-10-09.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Cirrocumulus stratiformis with a fallstreak hole. Sidmouth. 9th October 2023.
+</div>
+
+<hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2023-09-06.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Cirrus uncinus. Helston. 6th September 2023.
+</div>
+
+<hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2023-09-01.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Far away cumulonimbus. Cambridge. 1st September 2023.
+</div>
+
+<hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2023-07-16.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Cirrus uncinus/radiatus??? but it looks cool. London. 16th July 2023.
+</div>
+
+<hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2023-07-06.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Cumulus (?) arising from forest transpiration. The Dolomites. 6th July 2023.
+</div>
+
+<hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/img/clouds/2023-07-05.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+</div>
+<div class="caption">
+    Timelampse of convection. The Dolomites. 5th July 2023.
+</div>
+
+<hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2023-09-01.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Mature cumulonimbus far away with maturing cumulonimbus in front. Cambridge. 5th May 2023.
+</div>
+
+<hr>
