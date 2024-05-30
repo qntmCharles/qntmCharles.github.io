@@ -22,5 +22,5 @@ Hi! I'm a PhD student in the [Atmosphere & Ocean Dynamics group](https://www.atm
 
 My current reserach focus is the problem of stratospheric hydration by convective overshoots in the tropics. To get to grips with the mechanisms at play, we study the idealised fluid dynamical problem of convective penetration of a buoyant plume into a stably stratified layer, using numerical simulations. Aside from my PhD project, my research interests cover a wide range of atmospheric phenomena, from large scales (QBO, internal gravity waves, teleconnections) to small (turbulent mixing, convection).
 
-Beyond maths, I have two main pasttimes: rowing and amateur meteorology/cloudspotting. See [here](publications)
+Beyond maths, I have two main pastimes: rowing and amateur meteorology/cloudspotting. See [here](publications)
 for my cloudspotting log.
