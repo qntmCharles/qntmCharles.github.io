@@ -30,7 +30,7 @@
       "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/",
       "startDate": "2019-08-01",
       "endDate": "2019-09-01",
-      "summary": "Atmospheric moisture mapping using ADS-B aircraft tracking.",
+      "summary": "Atmospheric moisture mapping using ADS-B aircraft tracking."
     },
     {
       "name": "Astrophysics group, University of Exeter",
@@ -38,7 +38,7 @@
       "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/",
       "startDate": "2017-07-01",
       "endDate": "2017-08-01",
-      "summary": "Feedhorn design and GNUradio programming for pulsar detection.",
+      "summary": "Feedhorn design and GNUradio programming for pulsar detection."
     },
     {
       "name": "Astrophysics group, University of Exeter",
@@ -46,7 +46,7 @@
       "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/",
       "startDate": "2014-07-07",
       "endDate": "2014-07-18",
-      "summary": "Numerical investigation of young stellar objects.",
+      "summary": "Numerical investigation of young stellar objects."
     }
   ],
   "volunteer": [
@@ -55,14 +55,14 @@
       "position": "Mentor",
       "startDate": "2024-01-01",
       "endDate": "2024-04-01",
-      "summary": "Mentored a group of 4 students on a research project, investigating the use of fluid dynamics in understanding the role of chaos in weather prediction.",
+      "summary": "Mentored a group of 4 students on a research project, investigating the use of fluid dynamics in understanding the role of chaos in weather prediction."
     },
     {
       "organization": "University of Cambridge",
       "position": "Group seminar organiser",
       "startDate": "2023-01-01",
       "endDate": "2024-01-01",
-      "summary": "Worked with a colleague to organise weekly research group talks.",
+      "summary": "Worked with a colleague to organise weekly research group talks."
     },
     {
       "organization": "International Meteor Organisation",
@@ -71,7 +71,7 @@
       "url": "https://imc2018.imo.net/proceedings/Dfty56ghu52559aidDZZ897/IMC2018_Proceedings.pdf",
       "startDate": "2018-08-30",
       "endDate": "2018-09-02",
-      "summary": "Wrote conference report and assisted in preparation of conference proceedings.",
+      "summary": "Wrote conference report and assisted in preparation of conference proceedings."
     },
     {
       "organization": "Norman Lockyer Observatory",
@@ -80,7 +80,7 @@
       "url": "https://normanlockyer.com/astronomy-group/technology-group/",
       "startDate": "2012-01-01",
       "endDate": "2018-01-01",
-      "summary": "Developed software to analyse spectrograms produced by radio meteor detection.",
+      "summary": "Developed software to analyse spectrograms produced by radio meteor detection."
     }
   ],
   "education": [
