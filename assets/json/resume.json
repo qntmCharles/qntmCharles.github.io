@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Charles Powell",
-    "label": "PhD Student",
+    "title": "PhD Student",
     "image": "",
     "email": "cwp29@cam.ac.uk",
     "email": "cpowell@cwp.io",
@@ -100,13 +100,13 @@
       "awarder": "DAMTP, University of Cambridge"
     },
     {
-      "title": "Legacies fund travel grant",
+      "title": "Legacies Fund Travel Grant",
       "date": "2023-11-01",
       "awarder": "Royal Meteorological Society",
       "summary": "For travel to APS DFD annual meeting."
     },
     {
-      "title": "Legacies fund travel grant",
+      "title": "Legacies Fund Travel Grant",
       "date": "2024-06-01",
       "awarder": "Royal Meteorological Society",
       "summary": "For travel to RMetS Early Career & Student conference."
