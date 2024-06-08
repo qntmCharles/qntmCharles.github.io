@@ -150,9 +150,14 @@
     },
     {
       "title": "Bachelor Scholarship",
-      "date": "2021-09-01",
+      "date": "2021-09-06",
       "awarder": "Emmanuel College, University of Cambridge",
       "summary": "For First Class performance in examinations."
+    },
+    {
+      "title": "Fellow of the Royal Astronomical Society",
+      "date": "2017-05-12",
+      "url": "https://www.ras.ac.uk/"
     }
   ],
   "grants": [
