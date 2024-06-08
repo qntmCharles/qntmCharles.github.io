@@ -31,7 +31,12 @@
       "summary": "Supervising first year undergraduates in Differential Equations and Vector Calculus."
     },
     {
-      "name": "Freelance",
+      "name": "Emmanuel College",
+      "position": "Interviewer",
+      "startDate": "2022-12-01",
+      "summary": "Admissions interviews for undergraduate mathematics."
+    },
+    {
       "position": "GCSE Maths tutoring",
       "startDate": "2021-06-01",
       "endDate": "2022-06-01",
@@ -73,15 +78,40 @@
       "organization": "Cambridge Maths School",
       "position": "Mentor",
       "startDate": "2024-01-01",
-      "endDate": "2024-04-01",
-      "summary": "Mentored a group of 4 students on a research project, investigating the use of fluid dynamics in understanding the role of chaos in weather prediction."
+      "summary": "Mentored a group of 4 A-Level students on a research project, investigating the use of fluid dynamics in understanding the role of chaos in weather prediction."
+    },
+    {
+      "organization": "Emmanuel Boat Club",
+      "position": "Committee member",
+      "startDate": "2018-06-01",
+      "summary": "Lower Boats Captain (2018-19), Captain (2019-20), Secretary (2020-23), Junior Treasurer (2023-)."
+    },
+    {
+      "organization": "Exeter Maths School",
+      "position": "Project feedback sessions",
+      "startDate": "2022-03-01",
+      "endDate": "2024-03-01",
+      "summary": "Providing feedback on extracurricular research project reports for A-Level students."
+    },
+    {
+      "organization": "University of Cambridge",
+      "position": "CATAM feedback sessions",
+      "startDate": "2023-03-01",
+      "summary": "Providing feedback on undergraduate mathematics computational project reports."
     },
     {
       "organization": "University of Cambridge",
       "position": "Group seminar organiser",
       "startDate": "2023-01-01",
       "endDate": "2024-01-01",
-      "summary": "Worked with a colleague to organise weekly research group talks."
+      "summary": "Worked with a colleague to organise weekly talks for the atmosphere-ocean dynamics research group."
+    },
+    {
+      "organization": "University of Cambridge",
+      "position": "Group seminar organiser",
+      "startDate": "2023-01-01",
+      "endDate": "2024-01-01",
+      "summary": "Worked with a colleague to organise weekly talks for the GK Batchelor Laboratory research group."
     },
     {
       "organization": "International Meteor Organisation",
@@ -143,6 +173,28 @@
       "date": "2018-07-01",
       "awarder": "Devon Cambridge Society",
       "summary": "Funding towards research carried out over the summar vacation."
+    }
+  ],
+  "talks": [
+    {
+      "title": "Diagnosing tracer transport in convective penetration of a stably stratified layer",
+      "date": "2023-11",
+      "awarder": "APS DFD Annual Meeting",
+    },
+    {
+      "title": "Diagnosing tracer transport in convective penetration of a stably stratified layer",
+      "date": "2023-09",
+      "awarder": "Cam. / Imperial research knowledge exchange day on stratified turbulence and mixing",
+    },
+    {
+      "title": "Diagnosing tracer transport in convective penetration of a stably stratified layer",
+      "date": "2023-05",
+      "awarder": "DAMTP Friday Fluids seminar",
+    },
+    {
+      "title": "Simulating buoyant plumes using DIABLO",
+      "date": "2022-10",
+      "awarder": "DAMTP atmosphere-ocean group meeting",
     }
   ]
 }
