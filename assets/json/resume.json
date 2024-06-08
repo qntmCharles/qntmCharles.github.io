@@ -90,15 +90,38 @@
       "area": "Mathematical Tripos",
       "studyType": "BA and MMath (distinction)",
       "startDate": "2017-10-01",
-      "endDate": "2021-06-01",
+      "endDate": "2021-06-01"
     }
   ],
   "awards": [
     {
       "title": "Rayleight-Knight Smith-Knight Essay Prize",
       "date": "2023-03-23",
-      "awarder": "DAMTP, University of Cambridge",
+      "awarder": "DAMTP, University of Cambridge"
     },
-
+    {
+      "title": "Legacies fund travel grant",
+      "date": "2023-11-01",
+      "awarder": "Royal Meteorological Society",
+      "summary": "For travel to APS DFD annual meeting."
+    },
+    {
+      "title": "Legacies fund travel grant",
+      "date": "2024-06-01",
+      "awarder": "Royal Meteorological Society",
+      "summary": "For travel to RMetS Early Career & Student conference."
+    },
+    {
+      "title": "Bachelor Scholarship",
+      "date": "2021-09-01",
+      "awarder": "Emmanuel College, University of Cambridge",
+      "summary": "For First Class performance in examinations."
+    },
+    {
+      "title": "Long Vacation Research Grant",
+      "date": "2018-07-01",
+      "awarder": "Devon Cambridge Society",
+      "summary": "Funding towards research carried out over the summar vacation."
+    }
   ]
 }
