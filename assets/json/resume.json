@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Charles Powell",
-    "title": "PhD Student",
+    "position": "PhD Student",
     "image": "",
     "email": "cwp29@cam.ac.uk",
     "email": "cpowell@cwp.io",
@@ -24,6 +24,12 @@
     ]
   },
   "work": [
+    {
+      "name": "Emmanuel College",
+      "position": "Undergradute Supervisor",
+      "startDate": "2021-10-01",
+      "summary": "Supervising first year undergraduates in Differential Equations and Vector Calculus."
+    },
     {
       "name": "Astrophysics group, University of Exeter",
       "position": "Radio Astronomy Research Engineer",
@@ -50,6 +56,12 @@
     }
   ],
   "volunteer": [
+    {
+      "organization": "Cambridge Centre for Climate Science",
+      "position": "Steering committee member",
+      "startDate": "2024-04-01",
+      "summary": "Representing DAMTP Atmosphere-Ocean group."
+    },
     {
       "organization": "Cambridge Maths School",
       "position": "Mentor",
@@ -100,6 +112,14 @@
       "awarder": "DAMTP, University of Cambridge"
     },
     {
+      "title": "Bachelor Scholarship",
+      "date": "2021-09-01",
+      "awarder": "Emmanuel College, University of Cambridge",
+      "summary": "For First Class performance in examinations."
+    }
+  ],
+  "grants": [
+    {
       "title": "Legacies Fund Travel Grant",
       "date": "2023-11-01",
       "awarder": "Royal Meteorological Society",
@@ -110,12 +130,6 @@
       "date": "2024-06-01",
       "awarder": "Royal Meteorological Society",
       "summary": "For travel to RMetS Early Career & Student conference."
-    },
-    {
-      "title": "Bachelor Scholarship",
-      "date": "2021-09-01",
-      "awarder": "Emmanuel College, University of Cambridge",
-      "summary": "For First Class performance in examinations."
     },
     {
       "title": "Long Vacation Research Grant",
