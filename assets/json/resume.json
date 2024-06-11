@@ -26,15 +26,15 @@
   "work": [
     {
       "name": "Emmanuel College",
-      "position": "Undergradute Supervisor",
-      "startDate": "2021-10-01",
-      "summary": "Supervising first year undergraduates in Differential Equations and Vector Calculus."
-    },
-    {
-      "name": "Emmanuel College",
       "position": "Interviewer",
       "startDate": "2022-12-01",
       "summary": "Admissions interviews for undergraduate mathematics."
+    },
+    {
+      "name": "Emmanuel College",
+      "position": "Undergradute Supervisor",
+      "startDate": "2021-10-01",
+      "summary": "Supervising first year undergraduates in Differential Equations and Vector Calculus."
     },
     {
       "position": "GCSE Maths tutoring",
@@ -81,10 +81,24 @@
       "summary": "Mentored a group of 4 A-Level students on a research project, investigating the use of fluid dynamics in understanding the role of chaos in weather prediction."
     },
     {
-      "organization": "Emmanuel Boat Club",
-      "position": "Committee member",
-      "startDate": "2018-06-01",
-      "summary": "Lower Boats Captain (2018-19), Captain (2019-20), Secretary (2020-23), Junior Treasurer (2023-)."
+      "organization": "University of Cambridge",
+      "position": "CATAM feedback sessions",
+      "startDate": "2023-03-01",
+      "summary": "Providing feedback on undergraduate mathematics computational project reports."
+    },
+    {
+      "organization": "University of Cambridge",
+      "position": "Research group seminar organiser",
+      "startDate": "2023-01-01",
+      "endDate": "2024-01-01",
+      "summary": "Worked with a colleague to organise weekly talks for the atmosphere-ocean dynamics research group."
+    },
+    {
+      "organization": "University of Cambridge",
+      "position": "'Lab lunch' seminar organiser",
+      "startDate": "2023-01-01",
+      "endDate": "2024-01-01",
+      "summary": "Worked with a colleague to organise weekly talks for the GK Batchelor Laboratory research group."
     },
     {
       "organization": "Exeter Maths School",
@@ -94,26 +108,6 @@
       "summary": "Providing feedback on extracurricular research project reports for A-Level students."
     },
     {
-      "organization": "University of Cambridge",
-      "position": "CATAM feedback sessions",
-      "startDate": "2023-03-01",
-      "summary": "Providing feedback on undergraduate mathematics computational project reports."
-    },
-    {
-      "organization": "University of Cambridge",
-      "position": "Group seminar organiser",
-      "startDate": "2023-01-01",
-      "endDate": "2024-01-01",
-      "summary": "Worked with a colleague to organise weekly talks for the atmosphere-ocean dynamics research group."
-    },
-    {
-      "organization": "University of Cambridge",
-      "position": "Group seminar organiser",
-      "startDate": "2023-01-01",
-      "endDate": "2024-01-01",
-      "summary": "Worked with a colleague to organise weekly talks for the GK Batchelor Laboratory research group."
-    },
-    {
       "organization": "International Meteor Organisation",
       "location": "Pezinok, Slovakia",
       "position": "Editor",
@@ -121,6 +115,12 @@
       "startDate": "2018-08-30",
       "endDate": "2018-09-02",
       "summary": "Wrote conference report and assisted in preparation of conference proceedings."
+    },
+    {
+      "organization": "Emmanuel Boat Club",
+      "position": "Committee member",
+      "startDate": "2018-06-01",
+      "summary": "Lower Boats Captain (2018-19), Captain (2019-20), Secretary (2020-23), Junior Treasurer (2023-)."
     },
     {
       "organization": "Norman Lockyer Observatory",
@@ -144,6 +144,18 @@
   ],
   "awards": [
     {
+      "title": "Legacies Fund Travel Grant",
+      "date": "2024-06-01",
+      "awarder": "Royal Meteorological Society",
+      "summary": "For travel to RMetS Early Career & Student conference."
+    },
+    {
+      "title": "Legacies Fund Travel Grant",
+      "date": "2023-11-01",
+      "awarder": "Royal Meteorological Society",
+      "summary": "For travel to APS DFD annual meeting."
+    },
+    {
       "title": "Rayleight-Knight Smith-Knight Essay Prize",
       "date": "2023-03-23",
       "awarder": "DAMTP, University of Cambridge"
@@ -155,29 +167,15 @@
       "summary": "For First Class performance in examinations."
     },
     {
-      "title": "Fellow of the Royal Astronomical Society",
-      "date": "2017-05-12",
-      "url": "https://www.ras.ac.uk/"
-    }
-  ],
-  "grants": [
-    {
-      "title": "Legacies Fund Travel Grant",
-      "date": "2023-11-01",
-      "awarder": "Royal Meteorological Society",
-      "summary": "For travel to APS DFD annual meeting."
-    },
-    {
-      "title": "Legacies Fund Travel Grant",
-      "date": "2024-06-01",
-      "awarder": "Royal Meteorological Society",
-      "summary": "For travel to RMetS Early Career & Student conference."
-    },
-    {
       "title": "Long Vacation Research Grant",
       "date": "2018-07-01",
       "awarder": "Devon Cambridge Society",
       "summary": "Funding towards research carried out over the summar vacation."
+    },
+    {
+      "title": "Fellow of the Royal Astronomical Society",
+      "date": "2017-05-12",
+      "url": "https://www.ras.ac.uk/"
     }
   ],
   "talks": [
