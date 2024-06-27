@@ -108,6 +108,14 @@
       "summary": "Providing feedback on extracurricular research project reports for A-Level students."
     },
     {
+      "organization": "Emmanuel College",
+      "position": "MCR committee member",
+      "startDate": "2021-10-01",
+      "endDate": "2022-09-01",
+      "summary": "Computer officer for MCR (post-graduate society)."
+    },
+
+    {
       "organization": "International Meteor Organisation",
       "location": "Pezinok, Slovakia",
       "position": "Editor",
@@ -134,6 +142,13 @@
   ],
   "education": [
     {
+      "institution": "DAMTP, University of Cambridge",
+      "location": "Cambridge, UK",
+      "area": "Atmosphere \& Ocean Fluid Dynamics",
+      "studyType": "PhD",
+      "startDate": "2021-10-01",
+    },
+    {
       "institution": "Emmanuel College, University of Cambridge",
       "location": "Cambridge, UK",
       "area": "Mathematical Tripos",
@@ -159,6 +174,12 @@
       "title": "Rayleight-Knight Smith-Knight Essay Prize",
       "date": "2023-03-23",
       "awarder": "DAMTP, University of Cambridge"
+    },
+    {
+      "title": "Conference Travel Funding",
+      "date": "2021-10-01",
+      "awarder": "Emmanuel College",
+      "summary": "For travel to conferences during PhD."
     },
     {
       "title": "Bachelor Scholarship",
