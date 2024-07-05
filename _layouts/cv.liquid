@@ -80,7 +80,7 @@ layout: default
           <div class="card mt-3 p-3">
           	{% if data[0] == 'awards' %}
             <h3 class="card-title font-weight-medium">Awards, Grants and Fellowships</h3>
-			{% else if data[0] == 'volunteer' %}
+			{% elsif data[0] == 'volunteer' %}
             <h3 class="card-title font-weight-medium">Interests & Responsibilities</h3>
 			{% else %}
             <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
