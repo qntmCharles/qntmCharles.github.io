@@ -48,7 +48,7 @@
       "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/",
       "startDate": "2019-08-01",
       "endDate": "2019-09-01",
-      "summary": "Atmospheric moisture mapping using ADS-B aircraft tracking."
+      "summary": "Worked with Dr. Chris Brunt to determine the viability of a novel technique of measuring atmospheric refractivity using a combination of radio interferometry and ADS-B transmissions from commercial aircraft. Worked with the Met Office to test the technique, producing promising results that led to further development towards deploying the method widely at Met Office observation stations."
     },
     {
       "name": "Astrophysics group, University of Exeter",
@@ -56,7 +56,7 @@
       "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/",
       "startDate": "2017-07-01",
       "endDate": "2017-08-01",
-      "summary": "Feedhorn design and GNUradio programming for pulsar detection."
+      "summary": "Design & development of a small and affordable radio telescope in collaboration with Dr. Chris Brunt & Master's student. Worked independently on back-end software development using GNUradio to process radio signals and detect pulsars in our galaxy."
     },
     {
       "name": "Astrophysics group, University of Exeter",
@@ -64,7 +64,7 @@
       "url": "https://www.exeter.ac.uk/research/groups/physics/astrophysics/",
       "startDate": "2014-07-07",
       "endDate": "2014-07-18",
-      "summary": "Numerical investigation of young stellar objects."
+      "summary": "KS3 work experience placement with Dr. Jennifer Hatchell. Developed skills in data analysis, using TOPCAT for numerical investigation of young stellar objects in infrared observations of the Serpens South cluster."
     }
   ],
   "volunteer": [
@@ -137,7 +137,7 @@
       "url": "https://normanlockyer.com/astronomy-group/technology-group/",
       "startDate": "2012-01-01",
       "endDate": "2018-01-01",
-      "summary": "Developed software to analyse spectrograms produced by radio meteor detection."
+      "summary": "Member of the Lockyer Technology Group, the most active citizen science radio observation station in the UK. Assisted in development of hardware for detecting meteors using reflected radio signals from the GRAVES station in France. Developed software to improve analysis of spectrograms by categorising the RMS error; the method is now in widespread use across the UK Meteor Observation Network. "
     }
   ],
   "education": [
