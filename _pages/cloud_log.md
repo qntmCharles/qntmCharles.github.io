@@ -11,6 +11,153 @@ nav_order: 6
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2024-08-16.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Cirrus uncinus. Cambridge. 16th August 2024.
+</div>
+
+<hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2024-08-12.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Cumulus fractus and crepuscular rays. Cambridge. 12th August 2024.
+</div>
+
+<hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2024-07-29.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Cirrostratus. Colwyn Bay. 29th July 2024.
+</div>
+
+<hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2024-07-14.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Noctilucent clouds. Cambridge. 14th July 2024.
+</div>
+
+<hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2024-07-06-1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2024-07-06-2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Growing cumulonimbus, far away and overhead. Henley-on-Thames. 6th July 2024.
+</div>
+
+<hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2024-07-02-1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2024-07-02-2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Cumulus with flat bases & late evening cirrus. Sidmouth. 2nd July 2024.
+</div>
+
+<hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2024-06-30.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Lee waves from a cliff. Charmouth. 30th June 2024.
+</div>
+
+<hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2024-06-29-1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2024-06-29-2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Altocumulus stratiformis and irridescence. Lyme Regis. 29th June 2024.
+</div>
+
+<hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2024-06-19.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Cumulus from the air. Somewhere over the Netherlands. 19th June 2024.
+</div>
+
+<hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2024-06-16.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Cirrus fibratus and cumulus. Cambridge. 16th June 2024.
+</div>
+
+<hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2024-06-07-1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2024-06-07-2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Cirrus vertebratus & later at sunset. Cambridge. 7th June 2024.
+</div>
+
+<hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2024-06-05-1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/clouds/2024-06-05-2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Cirrus radiatus. River Cam. 5th June 2024.
+</div>
+
+<hr>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/clouds/2024-05-24.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
