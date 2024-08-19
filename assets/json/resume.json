@@ -159,6 +159,12 @@
   ],
   "awards": [
     {
+      "title": "Oral Presentation Prize",
+      "date": "2024-07-01",
+      "awarder": "RMetS Early Career and Student Conference",
+      "summary": "For short talk on idealised modelling of vertical transport by convective overshoots in the tropical tropopause layer."
+    },
+    {
       "title": "Legacies Fund Travel Grant",
       "date": "2024-06-01",
       "awarder": "Royal Meteorological Society",
@@ -200,6 +206,11 @@
     }
   ],
   "talks": [
+    {
+      "title": "Idealised modelling of vertical transport by convective overshoots in the tropical tropopause layer.",
+      "date": "2024-07",
+      "awarder": "RMetS Early Career and Student Conference"
+    },
     {
       "title": "Diagnosing tracer transport in convective penetration of a stably stratified layer",
       "date": "2023-11",
