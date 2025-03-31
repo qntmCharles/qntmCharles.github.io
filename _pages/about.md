@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  	<p>cwp29@cam.ac.uk</p>
-    <p>G1.17</p>
-    <p>Centre for Mathematical Sciences</p>
+    <p>cwp29@cam.ac.uk</p>
+    <p>G2.07, Centre for Mathematical Sciences</p>
     <p>University of Cambridge</p>
 
 news: false # includes a list of news items
