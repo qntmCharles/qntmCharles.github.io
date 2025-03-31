@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student @ <a href='https://www.damtp.cam.ac.uk/'>DAMTP, University of Cambridge</a>.
+subtitle: PDRA @ <a href='https://www.damtp.cam.ac.uk/'>ICCS & DAMTP, University of Cambridge</a>.
 
 profile:
   align: right
@@ -18,9 +18,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a PhD student in the [Atmosphere & Ocean Dynamics group](https://www.atm.damtp.cam.ac.uk/) at the University of Cambridge. My supervisors are [Prof. Peter Haynes](https://www.damtp.cam.ac.uk/user/phh/) and [Prof. John Taylor](https://www.damtp.cam.ac.uk/user/jrt51/). 
+Hi! I'm a post-doctoral research associate at the [Institute for Computing in Climate Science](https://iccs.cam.ac.uk/) and the [Atmosphere & Ocean Dynamics group](https://www.atm.damtp.cam.ac.uk/) at the University of Cambridge. I am also a Bye-Fellow at [Emmanuel College, Cambridge](https://www.emma.cam.ac.uk/).
 
-My current research focus is the problem of stratospheric hydration by convective overshoots in the tropics. To get to grips with the mechanisms at play, we study the idealised fluid dynamical problem of convective penetration of a buoyant plume into a stably stratified layer, using numerical simulations. Aside from my PhD project, my research interests cover a wide range of atmospheric phenomena, from large scales (QBO, internal gravity waves, teleconnections) to small (turbulent mixing, convection).
+I am interested in all aspects of atmospheric fluid dynamics, with a particular focus on convection. My PhD
+addressed hydration of the tropical tropopause layer by overshooting deep convection. To get to grips with the
+mechanisms at play, we studied the idealised fluid dynamical problem of convective penetration of a buoyant plume
+into a stably stratified layer, using numerical simulations. 
 
-Beyond maths, I have two main pastimes: rowing and amateur meteorology/cloudspotting. See [here](log)
+My current research focuses on coupling between large-scale stratospheric dynamics (the QBO) and convection in
+the troposphere, either directly via modification of the lower stratosphere or indirectly via modulation of
+patterns of convection such as the MJO.  
+
+Beyond my research, I have two main pastimes: rowing and amateur meteorology/cloudspotting. See [here](log)
 for my cloudspotting log.
