@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a post-doctoral research associate at the [Institute for Computing in Climate Science](https://iccs.cam.ac.uk/) and the [Atmosphere & Ocean Dynamics group](https://www.atm.damtp.cam.ac.uk/) at the University of Cambridge. I am also a Bye-Fellow at [Emmanuel College, Cambridge](https://www.emma.cam.ac.uk/).
+Hi! I'm a post-doctoral research associate at the [Institute for Computing in Climate Science](https://iccs.cam.ac.uk/) and the [Atmosphere & Ocean Dynamics group](https://www.atm.damtp.cam.ac.uk/) at the University of Cambridge, working with [Dr. Alison Ming](https://www.maths.cam.ac.uk/person/adk33). I am also a Bye-Fellow at [Emmanuel College, Cambridge](https://www.emma.cam.ac.uk/).
 
 I am interested in all aspects of atmospheric fluid dynamics, with a particular focus on convection. My PhD
 addressed hydration of the tropical tropopause layer by overshooting deep convection. To get to grips with the
@@ -27,7 +27,7 @@ into a stably stratified layer, using numerical simulations.
 
 My current research focuses on coupling between large-scale stratospheric dynamics (the QBO) and convection in
 the troposphere, either directly via modification of the lower stratosphere or indirectly via modulation of
-patterns of convection such as the MJO.  
+patterns of convection such as the MJO. 
 
 Beyond my research, I have two main pastimes: rowing and amateur meteorology/cloudspotting. See [here](log)
 for my cloudspotting log.
