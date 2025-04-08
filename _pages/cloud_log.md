@@ -10,6 +10,307 @@ nav_order: 6
 <hr>
 
 <div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2025-04-07.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Cirrocumulus at sunset. Munich in Germany. 7th April 2025.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2025-04-02.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Lenticular clouds. Gurten in Switzerland. 2nd April 2025.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2025-03-31.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Weak Crepuscular rays. Bern in Switzerland. 31st March 2025.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2025-03-30.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Cloud streets. Over France. 30th March 2025.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2025-03-16.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Cumulus producing snow. Uppsala in Sweden. 16th March 2025.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2025-03-14.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Cirrus. Gotland in the Baltic Sea. 14th March 2025.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2025-03-12.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Cumulus. Descending to Arlanda in Sweden. 12th March 2025.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2025-03-07.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Cirrus. Utrecht. 7th March 2025.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2025-03-02.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Cumulonimbus. Mediterranean Sea. 2nd March 2025.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2025-03-01.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Cirrus spissatus. Gozo. 1st March 2025.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2025-02-28.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Cirrus. Golden Cove in Malta. 28th February 2025.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2025-02-27.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Arcus. Valletta in Malta. 27th February 2025.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2025-02-02.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Cirrocumulus. Mediterranean Sea. 2nd February 2025.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2024-12-26.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Sea mist. Sennen in Cornwall. 26th December 2024.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2024-12-15.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Cirrostratus at sunset.  Cambridge. 15th December 2024.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2024-12-14.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Cirrus undulatus. Cambridge. 14th December 2024.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2024-11-13.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Cirrocumulus stratiformis. Cambridge. 13th November 2024.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2024-10-20-2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Cirrostratus fibratus. Cambridge. 20th October 2024.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2024-10-08.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Virga. Cambridge. 8th October 2024.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2024-09-29.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Roll cloud. Cambridge. 29th September 2024.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2024-09-21-2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Undulatus. Cambridge. 21st September 2024.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2024-09-21.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Cumulus mediocris. Cambridge. 21st September 2024.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2024-09-18.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Sundog. Cambridge. 18th September 2024.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2024-09-16.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Cirrus at sunset. Cambridge. 16th September 2024.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2024-09-12.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Arcus. Cambridge. 12th September 2024.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2024-09-11-2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Not really sure!. Cambridge. 11th September 2024.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2024-09-11.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Mammatus. Cambridge. 11th September 2024.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2024-09-08.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Cumulonimbus. Somewhere on the A303. 8th September 2024.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2024-08-28.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Altocumulus at sunset. Cambridge. 28th August 2024.
+</div>
+
+<hr>
+<div class="row mt-3">
+	<div class="col-sm mt-3 mt-md-0">
+		{% include figure.liquid loading="eager" path="assets/img/clouds/2024-08-27.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+	</div>
+</div>
+<div class="caption">
+	Cirrocumulus. Cambridge. 27th August 2024.
+</div>
+
+<hr>
+
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/clouds/2024-08-16.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
