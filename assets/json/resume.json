@@ -144,7 +144,7 @@
     {
       "institution": "DAMTP, University of Cambridge",
       "location": "Cambridge, UK",
-      "area": "Atmosphere & Ocean Fluid Dynamics",
+      "area": "Atmosphere & Ocean Dynamics",
       "studyType": "PhD",
       "startDate": "2021-10-01"
     },
@@ -158,6 +158,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "ECR Poster Prize",
+      "date": "2025-03-28",
+      "awarder": "QBOi-SNAP-QUOCA joint meeting",
+      "summary": "For poster on the origin of internal waves from overshooting convective plumes."
+    },
     {
       "title": "Oral Presentation Prize",
       "date": "2024-07-01",
@@ -206,6 +212,11 @@
     }
   ],
   "talks": [
+    {
+      "title": "Idealised modelling of moisture transport by overshooting convection in the tropical tropopause layer.",
+      "date": "2025-04",
+      "awarder": "Meteorological Institute, Ludwig-Maximilians-University Munich"
+    },
     {
       "title": "Idealised modelling of vertical transport by convective overshoots in the tropical tropopause layer.",
       "date": "2024-07",
