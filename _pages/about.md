@@ -18,16 +18,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a post-doctoral research associate at the [Institute for Computing in Climate Science](https://iccs.cam.ac.uk/) and the [Atmosphere & Ocean Dynamics group](https://www.atm.damtp.cam.ac.uk/) at the University of Cambridge, working with [Dr. Alison Ming](https://www.maths.cam.ac.uk/person/adk33). I am also a [Bye-Fellow](https://www.emma.cam.ac.uk/about/contact/fellows/?id=605) at [Emmanuel College, Cambridge](https://www.emma.cam.ac.uk/).
+Hi! I'm a post-doctoral research associate at the [Institute for Computing in Climate Science](https://iccs.cam.ac.uk/) and the [Atmosphere & Ocean Dynamics group](https://www.atm.damtp.cam.ac.uk/) at the University of Cambridge, working with [Dr. Alison Ming](https://www.maths.cam.ac.uk/person/adk33). I am also a Bye-Fellow and Director of Studies at [Emmanuel College, Cambridge](https://www.emma.cam.ac.uk/people/dr-charles-powell).
 
-I am interested in all aspects of atmospheric fluid dynamics, with a particular focus on convection. My PhD
-addressed hydration of the tropical tropopause layer by overshooting deep convection. To get to grips with the
-mechanisms at play, we studied the idealised fluid dynamical problem of convective penetration of a buoyant plume
-into a stably stratified layer, using numerical simulations. 
+I am interested in all aspects of atmospheric fluid dynamics, with a particular focus on troposphere-stratosphere coupling via convection and the Tropical Tropopause Layer (TTL). 
+My PhD thesis used idealised numerical simulations to model turbulent transport, wave generation and hydration of the TTL by overshooting convection.
+The problem was modelled as a buoyant plume penetrating into a stratified layer. A review of the motivating atmospheric problem and four associated papers can be found [here](publications).
 
-My current research focuses on coupling between large-scale stratospheric dynamics (the QBO) and convection in
-the troposphere, either directly via modification of the lower stratosphere or indirectly via modulation of
-patterns of convection such as the MJO. 
+My current research deals with coupling between large-scale stratospheric dynamics, such as the Quasi-Biennial Oscillation, and tropical convection patterns in the troposphere, such as the Madden-Julian Oscillation. 
+The QBO is predictable on much longer timescales than the "weather" seen in the troposphere, meaning its tropospheric teleconnections have important implications for subseasonal-to-seasonal predictive skill.
+We use high-resolution aquaplanet simulations to develop mechanistic understanding of the coupling processes. 
 
-Beyond my research, I have two main pastimes: rowing and amateur meteorology/cloudspotting. See [here](log)
-for my cloudspotting log.
+Beyond my research and teaching, my main pastimes are rowing (now, more coaching than rowing, and amateur meteorology/cloudspotting. See [here](log)
+for some neat cloud pictures.
