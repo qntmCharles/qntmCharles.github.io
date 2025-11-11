@@ -26,6 +26,12 @@
   "work": [
     {
       "name": "Emmanuel College",
+      "position": "Director of Studies in Mathematics (Part IA)",
+      "startDate": "2025-10-01",
+      "summary": ""
+    },
+    {
+      "name": "Emmanuel College",
       "position": "Bye-Fellow",
       "startDate": "2025-04-01",
       "summary": "Admissions, support and supervisions for undergraduate mathematics."
@@ -140,13 +146,21 @@
       "summary": "Member of the Lockyer Technology Group, the most active citizen science radio observation station in the UK. Assisted in development of hardware for detecting meteors using reflected radio signals from the GRAVES station in France. Developed software to improve analysis of spectrograms by categorising the RMS error; the method is now in widespread use across the UK Meteor Observation Network. "
     }
   ],
+    {
+      "institution": "Institute of Computing for Climate Science, University of Cambridge",
+      "location": "Cambridge, UK",
+      "area": "Stratosphere-Troposphere Coupling",
+      "studyType": "Postdoctoral Research Associate",
+      "startDate": "2025-04-01",
+    },
   "education": [
     {
       "institution": "DAMTP, University of Cambridge",
       "location": "Cambridge, UK",
-      "area": "Atmosphere & Ocean Dynamics",
+      "area": "Atmosphere & Ocean Fluid Dynamics",
       "studyType": "PhD",
-      "startDate": "2021-10-01"
+      "startDate": "2021-10-01",
+      "endDate": "2025-02-13"
     },
     {
       "institution": "Emmanuel College, University of Cambridge",
