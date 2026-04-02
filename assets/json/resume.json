@@ -4,7 +4,6 @@
     "position": "Post-Doctoral Research Associate",
     "image": "",
     "email": "cwp29@cam.ac.uk",
-    "email": "cpowell@cwp.io",
     "phone": "",
     "url": "https://cwp.io",
     "summary": "",
@@ -24,6 +23,12 @@
     ]
   },
   "work": [
+    {
+      "name": "Institute of Computing for Climate Science, University of Cambridge",
+      "position": "Postdoctoral Research Associate",
+      "startDate": "2025-04-01",
+      "summary": "Funded by Inigo Limited. Working on aspects of Stratosphere-Troposphere Coupling involving the QBO & MJO. Also interested in factors influencing tropical cyclone activity in the North Atlantic."
+    },
     {
       "name": "Emmanuel College",
       "position": "Director of Studies in Mathematics (Part IA)",
@@ -93,6 +98,12 @@
       "summary": "Providing feedback on undergraduate mathematics computational project reports."
     },
     {
+      "organization": "Exeter Maths School",
+      "position": "Project feedback sessions",
+      "startDate": "2022-03-01",
+      "summary": "Providing feedback on extracurricular research project reports for A-Level students."
+    },
+    {
       "organization": "University of Cambridge",
       "position": "Research group seminar organiser",
       "startDate": "2023-01-01",
@@ -105,13 +116,6 @@
       "startDate": "2023-01-01",
       "endDate": "2024-01-01",
       "summary": "Worked with a colleague to organise weekly talks for the GK Batchelor Laboratory research group."
-    },
-    {
-      "organization": "Exeter Maths School",
-      "position": "Project feedback sessions",
-      "startDate": "2022-03-01",
-      "endDate": "2024-03-01",
-      "summary": "Providing feedback on extracurricular research project reports for A-Level students."
     },
     {
       "organization": "Emmanuel College",
@@ -146,13 +150,6 @@
       "summary": "Member of the Lockyer Technology Group, the most active citizen science radio observation station in the UK. Assisted in development of hardware for detecting meteors using reflected radio signals from the GRAVES station in France. Developed software to improve analysis of spectrograms by categorising the RMS error; the method is now in widespread use across the UK Meteor Observation Network. "
     }
   ],
-    {
-      "institution": "Institute of Computing for Climate Science, University of Cambridge",
-      "location": "Cambridge, UK",
-      "area": "Stratosphere-Troposphere Coupling",
-      "studyType": "Postdoctoral Research Associate",
-      "startDate": "2025-04-01",
-    },
   "education": [
     {
       "institution": "DAMTP, University of Cambridge",
