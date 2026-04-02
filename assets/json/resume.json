@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Charles Powell",
-    "position": "Post-Doctoral Research Associate",
+    "position": "Researcher in Atmospheric Dynamics (Applied Mathematics)",
     "image": "",
     "email": "cwp29@cam.ac.uk",
     "phone": "",
@@ -27,7 +27,7 @@
       "name": "Institute of Computing for Climate Science, University of Cambridge",
       "position": "Postdoctoral Research Associate",
       "startDate": "2025-04-01",
-      "summary": "Funded by Inigo Limited. Working on aspects of Stratosphere-Troposphere Coupling involving the QBO & MJO. Also interested in factors influencing tropical cyclone activity in the North Atlantic."
+      "summary": "Working on aspects of Stratosphere-Troposphere Coupling involving the QBO & MJO using aquaplanet simulations and Dynamic Mode Decomposition. Also interested in factors influencing tropical cyclone activity in the North Atlantic."
     },
     {
       "name": "Emmanuel College",
@@ -36,10 +36,16 @@
       "summary": ""
     },
     {
+      "name": "Emmanuel Boat Club",
+      "position": "Senior Treasurer",
+      "startDate": "2025-06-22",
+      "summary": ""
+    },
+    {
       "name": "Emmanuel College",
       "position": "Bye-Fellow",
       "startDate": "2025-04-01",
-      "summary": "Admissions, support and supervisions for undergraduate mathematics."
+      "summary": ""
     },
     {
       "name": "Emmanuel College",
@@ -138,7 +144,7 @@
       "organization": "Emmanuel Boat Club",
       "position": "Committee member",
       "startDate": "2018-06-01",
-      "summary": "Lower Boats Captain (2018-19), Captain (2019-20), Secretary (2020-23), Junior Treasurer (2023-)."
+      "summary": "Lower Boats Captain (2018-19), Captain (2019-20), Secretary (2020-23), Junior Treasurer (2023-25)."
     },
     {
       "organization": "Norman Lockyer Observatory",
@@ -163,7 +169,7 @@
       "institution": "Emmanuel College, University of Cambridge",
       "location": "Cambridge, UK",
       "area": "Mathematical Tripos",
-      "studyType": "BA and MMath (distinction)",
+      "studyType": "BA and MMath",
       "startDate": "2017-10-01",
       "endDate": "2021-06-01"
     }
