@@ -176,6 +176,12 @@
   ],
   "awards": [
     {
+      "title": "ECR Oral Presentation Prize",
+      "date": "2026-06-24",
+      "awarder": "11th National Climate Dynamics Workshop",
+      "summary": "For short talk on exploring the QBO-MJO connection in an aquaplanet framework."
+    },
+    {
       "title": "ECR Poster Prize",
       "date": "2025-03-28",
       "awarder": "QBOi-SNAP-QUOCA joint meeting",
@@ -229,6 +235,11 @@
     }
   ],
   "talks": [
+    {
+      "title": "Exploring the QBO-MJO connection in an aquaplanet framework.",
+      "date": "2026-06",
+      "awarder": "11th National Climate Dynamics Workshop"
+    },
     {
       "title": "On convective penetration of a buoyant plume into a stably stratified layer.",
       "date": "2026-05",
