@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>cwp29@cam.ac.uk</p>
-    <p>G2.07, Centre for Mathematical Sciences</p>
+    <p>G2.08, Centre for Mathematical Sciences</p>
     <p>University of Cambridge</p>
 
 news: false # includes a list of news items
@@ -28,5 +28,5 @@ My current research deals with coupling between large-scale stratospheric dynami
 The QBO is predictable on much longer timescales than the "weather" seen in the troposphere, meaning its tropospheric teleconnections have important implications for subseasonal-to-seasonal predictive skill.
 We use high-resolution aquaplanet simulations to develop mechanistic understanding of the coupling processes. 
 
-Beyond my research and teaching, my main pastimes are rowing (now, more coaching than rowing, and amateur meteorology/cloudspotting. See [here](log)
+Beyond my research and teaching, my main pastimes are rowing (now, more coaching than rowing), and amateur meteorology/cloudspotting. See [here](log)
 for some neat cloud pictures.
